@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Alfie <img src="https://raw.githubusercontent.com/AlfieBrooks/AlfieBrooks/main/wave.gif" width="30px"></h1>
-<p align="center">A frontend developer from London, working for Sky, focusing on React and Redux</p>
+<p align="center">A full-stack developer from London, working for Sky, focusing on frontends in React</p>
 
 <br />
 <h2 align="center">:telescope: Languages and Tools</h2>
